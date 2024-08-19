@@ -9,3 +9,6 @@ Se cambió este archivo para mostrar algo más que un archivo en blanco
 print(hello world)
 ```
 
+- [x] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
